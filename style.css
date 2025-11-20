@@ -1,0 +1,56 @@
+body{
+    background-color: blueviolet;
+    text-align: center;
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+h4{
+    font-size: 39px;
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+    color: white;
+    width: 900px;
+    margin: 0 auto;
+}
+
+button{
+    font-size: 30px;
+    background: none;
+}
+#yes, #no{
+    font-weight: bold;
+}
+#yes{
+    background-color: rgb(255, 255, 255);
+}
+
+#no{
+    background-color: black;
+    color: white;
+}
+
+.buttons{
+    gap: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+
+}
+
+span{
+    font-weight: bold;
+    color: black;
+}
+
+h6{
+    font-size: 25px;
+}
